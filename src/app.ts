@@ -11,7 +11,7 @@ app.use(express.urlencoded({ extended: true }))
 
 // testing
 app.get('/', (req: Request, res: Response) => {
-    res.send('Hello World!')
+  res.send('Hello World!')
 })
 
 export default app
