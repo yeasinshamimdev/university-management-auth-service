@@ -1,0 +1,16 @@
+{
+  message: 'database connection successful',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH UNI',
+  timestamp: '2023-06-07T06:40:11.083Z'
+}
+{
+  message: 'application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH UNI',
+  timestamp: '2023-06-07T06:40:11.109Z'
+}
+Wed Jun 07 2023 12:41:33 [PH UNI] info: database connection successful
+Wed Jun 07 2023 12:41:33 [PH UNI] info: application listening on port 5000
