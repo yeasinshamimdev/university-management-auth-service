@@ -1,0 +1,7 @@
+Fri Jun 16 2023 15:41:6 [right meow!] error: Cannot read properties of undefined (reading 'page')
+Fri Jun 16 2023 15:48:37 [right meow!] error: Cast to number failed for value "i" (type string) at path "year" for model "AcademicSemester"
+Fri Jun 16 2023 15:49:21 [right meow!] error: Cast to number failed for value "i" (type string) at path "year" for model "AcademicSemester"
+Fri Jun 16 2023 15:56:33 [right meow!] error: Invalid semester code
+Fri Jun 16 2023 15:57:10 [right meow!] error: Invalid semester code
+Fri Jun 16 2023 15:58:27 [right meow!] error: Academic semester already exist!
+Fri Jun 16 2023 15:59:26 [right meow!] error: Academic semester already exist!
